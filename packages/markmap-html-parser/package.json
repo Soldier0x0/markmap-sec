@@ -45,7 +45,7 @@
     "markmap-common": "workspace:*"
   },
   "dependencies": {
-    "@babel/runtime": "^7.22.6",
+    "@babel/runtime": "^7.26.10",
     "cheerio": "1.0.0"
   },
   "peerDependencies": {
