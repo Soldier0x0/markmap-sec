@@ -49,7 +49,7 @@
     "markmap-view": "workspace:*"
   },
   "dependencies": {
-    "@babel/runtime": "^7.22.6"
+    "@babel/runtime": "^7.26.10"
   },
   "peerDependencies": {
     "markmap-common": "*"
